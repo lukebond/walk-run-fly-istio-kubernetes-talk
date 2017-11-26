@@ -1,4 +1,4 @@
-# istio-london-operators-20171127
+# walk-run-fly-istio-kubernetes-talk
 
 Meant to be viewed with [mdp](https://github.com/visit1985/mdp) markdown presentation tool:
 
