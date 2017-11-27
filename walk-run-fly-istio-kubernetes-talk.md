@@ -3,18 +3,19 @@
 %date: 2017-11-27
 
 
-
-
 -> # Walk, Run, Fly with Istio <-
 
+\                                 \_      \__  \_
+                                (\_)\____/ /\_(\_)\___
+                               / / \___/ \__/ / \__ \\
+                              / (\__  ) /\_/ / /\_/ /
+                             /\_/\____/\\\__/\_/\\\____/
 
 
 
 -> Istio London Meetup <-
 -> Skills Matter <-
 -> November 27, 2017 <-
-
-
 
 
 -> *Luke Bond* <-
