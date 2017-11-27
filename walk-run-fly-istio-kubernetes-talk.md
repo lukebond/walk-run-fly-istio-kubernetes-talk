@@ -3,7 +3,7 @@
 %date: 2017-11-27
 
 
--> # Walk, Run, Fly with Istio <-
+-> # Walk, Run, Fly with <-
 
 \                                 \_      \__  \_
                                 (\_)\____/ /\_(\_)\___
